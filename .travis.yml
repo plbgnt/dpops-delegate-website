@@ -18,6 +18,9 @@ cache:
 
 install:
   - npm install
+  - npm install -g codecov
 
 script:
   - npm run test -- --watch=false --no-progress --browsers=ChromeHeadlessNoSandbox
+  - istanbul cover ./node_modules/jasmine/bin/jasmine.js
+  - codecov
