@@ -2,7 +2,7 @@
 
 Forked from [cdk-admin](https://github.com/codetok/cdk-admin), an Angular 6 admin panel using angular material & angular flex.
 
-
+[![Build Status](https://travis-ci.org/plbgnt/dpops-delegate-website.svg?branch=master)](https://travis-ci.org/plbgnt/dpops-delegate-website)
 
 
 ## Introduction
@@ -24,16 +24,22 @@ This website is optional for delegates to run, as the X-CASH proof of stake data
 [System Requirements](#system-requirements)  
 [Dependencies](#dependencies)  
 [Installation Process](#installation-process)  
-* [Installation Path](#installation-path)  
-* [Installing Node.js From Binaries](#installing-nodejs-from-binaries) 
-* [Configuring NPM If Root](#configuring-npm-if-root)  
-* [Updating NPM](#updating-npm)  
-* [Installing Packages Globally Using NPM](#installing-packages-globally-using-npm)  
-* [Cloning the Repository](#cloning-the-repository)  
-* [Updating node_modules](#updating-node_modules)  
-* [Redirect port 80 to 18283](#redirect-port-80-to-18283)  
-* [Build XCASH_DPOPS - Delegates Website](#build-xcash_dpops---delegates-website)  
-* [Build Instructions](#cloning-the-repository)  
+- [XCASH_DPOPS - Delegates Website](#xcashdpops---delegates-website)
+  - [Introduction](#introduction)
+  - [Table of Contents](#table-of-contents)
+  - [System Requirements](#system-requirements)
+  - [Dependencies](#dependencies)
+  - [Installation Process](#installation-process)
+    - [Installation Path](#installation-path)
+    - [Installing Node.js from binaries](#installing-nodejs-from-binaries)
+    - [Configuring NPM If Root](#configuring-npm-if-root)
+    - [Updating NPM](#updating-npm)
+    - [Installing Packages Globally Using NPM](#installing-packages-globally-using-npm)
+    - [Cloning the Repository](#cloning-the-repository)
+    - [Updating node_modules](#updating-nodemodules)
+    - [Redirect port 80 to 18283](#redirect-port-80-to-18283)
+    - [Build XCASH_DPOPS - Delegates Website](#build-xcashdpops---delegates-website)
+  - [Testing](#testing)
 
 [Testing](#testing) 
 
